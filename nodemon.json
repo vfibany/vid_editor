@@ -1,0 +1,10 @@
+{
+  "watch": ["server/"],
+  "ignore": [
+    "projects/**",
+    "client/**",
+    "**/render_props_tmp.json",
+    "**/*.mp4"
+  ],
+  "ext": "js,json,ts"
+}
